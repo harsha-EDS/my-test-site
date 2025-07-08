@@ -2,8 +2,8 @@
   "project": "MY TEST SITE",
   "plugins": [
     {
-      "id": "library",
-      "title": "Library",
+      "id": "blocks-library",
+      "title": "Blocks Library",
       "environments": ["edit"],
       "url": "/tools/sidekick/library.html",
       "includePaths": ["**.docx**"]
